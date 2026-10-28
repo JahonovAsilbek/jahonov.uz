@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>https://jahonov.uz/</loc>
-        <lastmod>2026-07-30</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
+        <lastmod>2026-10-28</lastmod>
+        <xhtml:link rel="alternate" hreflang="en" href="https://jahonov.uz/"/>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://jahonov.uz/uz/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://jahonov.uz/ru/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://jahonov.uz/"/>
+    </url>
+    <url>
+        <loc>https://jahonov.uz/uz/</loc>
+        <lastmod>2026-10-28</lastmod>
+        <xhtml:link rel="alternate" hreflang="en" href="https://jahonov.uz/"/>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://jahonov.uz/uz/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://jahonov.uz/ru/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://jahonov.uz/"/>
+    </url>
+    <url>
+        <loc>https://jahonov.uz/ru/</loc>
+        <lastmod>2026-10-28</lastmod>
+        <xhtml:link rel="alternate" hreflang="en" href="https://jahonov.uz/"/>
+        <xhtml:link rel="alternate" hreflang="uz" href="https://jahonov.uz/uz/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://jahonov.uz/ru/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://jahonov.uz/"/>
     </url>
 </urlset>
